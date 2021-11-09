@@ -7,7 +7,7 @@ const {
   removeContact,
   updateContact,
   updateStatusContact,
-} = require('../../controllers/contacts');
+} = require('../../controllers/contactsControllers');
 
 const {
   validateContact,
